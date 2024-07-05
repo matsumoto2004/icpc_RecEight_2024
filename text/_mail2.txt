@@ -1,0 +1,39 @@
+-------- Forwarded Message --------
+Subject:	ICPC2024競技用ID・パスワード等のご連絡
+Date:	Tue, 18 Jun 2024 01:39:29 -0700
+From:	Japan ICPC Domestic <icpc2024reg@yamagula.ic.i.u-tokyo.ac.jp>
+To:	nakamichi-kohei135@g.ecc.u-tokyo.ac.jp
+CC:	icpc2024@itpro.titech.ac.jp
+
+The University of Tokyo
+nakamichi-kohei135@g.ecc.u-tokyo.ac.jp様
+
+チーム登録ID(6桁): 991680
+チーム名: RecEight
+
+ICPC 2024横浜大会にご登録いただきありがとうございました。
+
+本メールでは、同大会　国内予選における競技用チームIDとパスワードを
+お知らせします。このメールはコーチの方のみにお送りしています。この
+情報は予選参加に必要ですので、当該チームの選手の方たちに転送・通知
+をいただけますようお願いします。
+
+(1)競技用チームIDとパスワード
+競技用チームID(6桁の整数)
+991680
+
+競技用パスワード(英数字10文字)
+Bmr98Maq1k
+
+なお、下記は、別便で 7月5日 までにお送りする予定です。
+
+(2)予選当日の注意事項などの情報
+(3) リハーサル(練習)に関する情報
+
+
+ご質問・お問合わせがありましたら下記宛てにメールをいただけますよう
+お願いします。
+
+
+ICPC 2024 横浜大会 実行委員会
+icpc2024[at]itpro.titech.ac.jp
